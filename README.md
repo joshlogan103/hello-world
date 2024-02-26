@@ -5,5 +5,5 @@ This is a readme
 
 This is the second edit
 
-more edite
+more edits
 more more
